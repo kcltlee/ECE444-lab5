@@ -2,3 +2,10 @@
 venv/
 .venv/
 source/
+
+# System files
+.DS_Store
+
+# Bytecode
+__pycache__/
+*.pyc
